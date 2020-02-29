@@ -1,15 +1,17 @@
 type: flyingUnit
-name: Chrome Wraith
+name: Angel
 description: Generally annoying and flashy.
 speed: 0.5
 flying: true
-health: 90
+health: 10000
 engineOffset: 5.5
 range: 160
 weapon: {
   name: chrome-blaster
   length: 1.5
-  reload: 10
+  reload: 1
   alternate: true
-  bullet: lightning
+  bullet: lancerLaser
+  damage: 100
 }
+
