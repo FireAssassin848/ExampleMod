@@ -1,7 +1,7 @@
 name: HalfGod
 description: An unnaturally elongated mech. Spews messy lightning all over your enemies.
-speed: 0.6
-boostSpeed: 1.5
+speed: 3.0
+boostSpeed: 4.0
 buildPower: 2
 engineColor: "666495"
 flying: false
@@ -13,4 +13,5 @@ weapon: {
   reload: 1
   alternate: false
   bullet: lancerLaser
+  damage: 100
 }
