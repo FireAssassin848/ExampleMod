@@ -4,13 +4,10 @@ type: MechPad
 mech: electra-mech
 size: 2
 consumes: {
-  power: 0.7
+  power: 0.0
 }
 category: upgrade
 research: wraith-factory
 requirements: [
-  silver/70
-  electrum/40
-  silicon/40
-  graphite/50
+  copper/1
 ]
