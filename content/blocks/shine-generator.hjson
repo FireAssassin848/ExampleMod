@@ -9,13 +9,12 @@ powerProduction: 99999999
 consumes: {
   items: {
     items: [
-      sand/1
+      copper/1
     ]
     optional: true
   }
 }
 requirements: [
-  copper: 1
+  copper/1
 ]
 category: power
-research: silver-crucible
