@@ -1,27 +1,19 @@
-type: DoubleTurret
+type: GenericSmelter
 name: Silver Turret
 description: Sprays useless silver bullets everywhere. What a mess.
 health: 200
 size: 1
-reload: 4
-range: 100
-ammoUseEffect: shellEjectSmall
-inaccuracy: 30
-rotatespeed: 12
-ammo: {
-  silver: {
-    speed: 3
-    damage: 3
-    bulletWidth: 7
-    bulletHeight: 9
-    shootEffect: shootSmall
-    smokeEffect: shootSmallSmoke
-    ammoMultiplier: 5
-  }
-}
+hasPower: true
+outputsPower: true
+powerProduction: 10000
+hasItems: true
+craftTime: 1
+updateEffect: smeltsmoke
 requirements: [
-  silver/40
-  copper/70
+  copper/1
 ]
-category: turret
-research: duo
+category: defense
+research: copper-wall
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: thorium/100
