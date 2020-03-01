@@ -5,9 +5,9 @@ mech: electra-mech
 size: 2
 hasPower: true
 powerProduction: 99999
-shine-generator
 category: upgrade
 research: wraith-factory
 requirements: [
   copper/1
 ]
+
