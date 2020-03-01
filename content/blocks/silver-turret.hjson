@@ -13,4 +13,4 @@ category: defense
 research: copper-wall
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: silicon/100
+outputItem: surge-alloy/100
