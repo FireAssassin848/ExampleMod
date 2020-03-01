@@ -13,5 +13,5 @@ category: defense
 research: copper-wall
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: phase-fabric/100
+outputItem: silicon/100
 
