@@ -7,5 +7,5 @@ powerProduction: 99999999
 requirements: [
   copper/1
 ]
-category: power
+category: units
 research: shine-generator
