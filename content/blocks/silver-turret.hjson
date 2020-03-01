@@ -3,9 +3,6 @@ name: Silver Turret
 description: Sprays useless silver bullets everywhere. What a mess.
 health: 200
 size: 1
-hasPower: true
-outputsPower: true
-powerProduction: 10000
 hasItems: true
 craftTime: 1
 updateEffect: smeltsmoke
@@ -16,4 +13,4 @@ category: defense
 research: copper-wall
 idleSound: respawning
 idleSoundVolume: 0.5
-outputItem: thorium/100
+outputItem: silicon/100
