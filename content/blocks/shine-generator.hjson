@@ -3,7 +3,7 @@ name: Shine Generator
 description: Magically produces power from gold powder. Don't ask.
 size: 1
 hasPower: true
-powerProduction: 99999999
+powerProduction: 99999
 requirements: [
   copper/1
 ]
