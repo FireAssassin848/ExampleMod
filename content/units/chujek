@@ -1,1 +1,16 @@
-aaa
+type: GroundUnit
+name: CHUJEK
+description: Generally annoying and flashy.
+speed: 0.5
+flying: true
+health: 10000
+engineOffset: 5.5
+range: 250
+weapon: {
+  name: chrome-blaster
+  length: 1.5
+  reload: 1
+  alternate: true
+  bullet: missileSurge
+  damage: 100
+}
