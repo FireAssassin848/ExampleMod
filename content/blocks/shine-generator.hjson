@@ -1,19 +1,9 @@
 type: SingleTypeGenerator
 name: Shine Generator
 description: Magically produces power from gold powder. Don't ask.
-size: 1
+size: 2
 hasPower: true
-hasItems: true
-itemDuration: 30
 powerProduction: 10000.0
-consumes: {
-  items: {
-    items: [
-      copper/1
-    ]
-    optional: true
-  }
-}
 requirements: [
   copper/1
 ]
