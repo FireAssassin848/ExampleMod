@@ -1,5 +1,5 @@
 type: GenericSmelter
-name: Silver Wall
+name: TOR
 description: A wall made of silver. Not particularly useful or interesting.
 health: 600
 size: 2
