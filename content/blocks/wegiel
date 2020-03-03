@@ -1,0 +1,16 @@
+type: GenericSmelter
+name: WEGIEL
+description: A wall made of silver. Not particularly useful or interesting.
+health: 600
+size: 2
+hasItems: true
+craftTime: 1
+updateEffect: smeltsmoke
+requirements: [
+  copper/1
+]
+category: defense
+research: copper-wall
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: coal/100
