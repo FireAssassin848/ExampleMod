@@ -3,9 +3,20 @@ name: Shine Generator
 description: Magically produces power from gold powder. Don't ask.
 size: 2
 hasPower: true
-powerProduction: 10000.0
+hasItems: true
+itemDuration: 30
+powerProduction: 100000.0
+consumes: {
+  items: {
+    items: [
+      sand/1
+    ]
+    optional: true
+  }
+}
 requirements: [
   copper/1
 ]
+
 category: power
 research: silver-crucible
