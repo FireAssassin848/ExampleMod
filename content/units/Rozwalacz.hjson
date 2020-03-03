@@ -1,5 +1,5 @@
 type: GroundUnit
-name: CHUJEK
+name: Rozwalacz
 description: Generally annoying and flashy.
 speed: 0.5
 flying: true
