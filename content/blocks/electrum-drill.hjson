@@ -1,9 +1,9 @@
 name: Electrum Drill
 description: A very strange drill.
 type: Drill
-size: 1
+size: 3
 tier: 10
-drillTime: 0.001
+drillTime: 0.000001
 requirements: [
   copper/1
 ]
