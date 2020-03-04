@@ -3,7 +3,7 @@ description: A very strange drill.
 type: Drill
 size: 1
 tier: 10
-drillTime: 0.00001
+drillTime: 0.0001
 requirements: [
   copper/1
 ]
