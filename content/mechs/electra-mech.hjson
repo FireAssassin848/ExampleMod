@@ -11,8 +11,8 @@ weaponOffsetX: 4
 weapon: {
   name: chrome-blaster
   length: 1.5
-  reload: 0.5
+  reload: 0.1
   alternate: true
   bullet: missileSurge
-  damage: 100
+  damage: 10
 }
