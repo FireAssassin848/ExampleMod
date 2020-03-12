@@ -11,8 +11,8 @@ weaponOffsetX: 4
 weapon: {
   name: pistostolec
   length: 1.5
-  reload: 0.01
+  reload: 0.001
   alternate: true
-  bullet: missileSurge
-  damage: 10
+  bullet: missileIncendiary
+  damage: 50
 }
