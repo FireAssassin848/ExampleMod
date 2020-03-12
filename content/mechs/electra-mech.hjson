@@ -9,9 +9,9 @@ flying: true
 health: 1000000
 weaponOffsetX: 4
 weapon: {
-  name: electra-gun
+  name: pistostolec
   length: 1.5
-  reload: 0.1
+  reload: 0.01
   alternate: true
   bullet: missileSurge
   damage: 10
