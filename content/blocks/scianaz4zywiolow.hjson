@@ -1,13 +1,13 @@
 type: GenericSmelter
 name: Ściana 4 Żywiołów
 description: A wall made of silver. Not particularly useful or interesting.
-health: 99999999999999999999999999999999999
+health: 99999999999999999999999
 size: 2
 hasItems: true
 craftTime: 1
 updateEffect: smeltsmoke
 requirements: [
-  copper/999999999999999999999
+  copper/99999999
 ]
 category: defense
 research: copper-wall
