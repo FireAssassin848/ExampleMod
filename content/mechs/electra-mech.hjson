@@ -12,7 +12,7 @@ weaponOffsetY: 0
 weapon: {
   name: hgidui
   length: 1.5
-  shots: 10
+  shots: 15
   reload: 0.01
   alternate: true
   bullet: flakGlass
