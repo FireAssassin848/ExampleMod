@@ -7,8 +7,8 @@ range: 250
 engineColor: "666495"
 flying: true
 health: 1000000
-weaponOffsetX: 138
-weaponOffsetY: 35
+weaponOffsetX: 3
+weaponOffsetY: 3
 weapon: {
   name: pistostolec
   length: 1.5
