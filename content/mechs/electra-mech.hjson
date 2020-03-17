@@ -15,6 +15,6 @@ weapon: {
   shots: 10
   reload: 0.01
   alternate: true
-  bullet: standardCopper
+  bullet: artlleryIncendiary
   damage: 100
 }
