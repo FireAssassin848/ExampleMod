@@ -10,7 +10,7 @@ health: 1000000
 weaponOffsetX: 3
 weaponOffsetY: 1
 weapon: {
-  name: pistostolec
+  name: hgidui
   length: 1.5
   shots: 10
   reload: 0.01
