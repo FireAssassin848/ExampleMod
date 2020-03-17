@@ -8,7 +8,7 @@ engineColor: "666495"
 flying: true
 health: 1000000
 weaponOffsetX: 3
-weaponOffsetY: 1
+weaponOffsetY: -1
 weapon: {
   name: hgidui
   length: 1.5
