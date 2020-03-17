@@ -8,7 +8,7 @@ engineColor: "666495"
 flying: true
 health: 1000000
 weaponOffsetX: 3
-weaponOffsetY: 3
+weaponOffsetY: 1
 weapon: {
   name: pistostolec
   length: 1.5
