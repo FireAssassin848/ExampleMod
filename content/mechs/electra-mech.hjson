@@ -1,4 +1,4 @@
-name: HalfGod
+name: halfik
 description: An unnaturally elongated mech. Spews messy lightning all over your enemies.
 speed: 2.0
 boostSpeed: 2.0
@@ -7,11 +7,13 @@ range: 250
 engineColor: "666495"
 flying: true
 health: 1000000
-weaponOffsetX: 4
+weaponOffsetX: 138
+weaponOffsetY: 35
 weapon: {
   name: pistostolec
   length: 1.5
-  reload: 0.0001
+  shots: 10
+  reload: 0.01
   alternate: true
   bullet: standardCopper
   damage: 100
