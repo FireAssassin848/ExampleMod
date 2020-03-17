@@ -7,7 +7,7 @@ range: 250
 engineColor: "666495"
 flying: true
 health: 1000000
-weaponOffsetX: 5
+weaponOffsetX: 1
 weaponOffsetY: 0
 weapon: {
   name: hgidui
